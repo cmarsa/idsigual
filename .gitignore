@@ -2,7 +2,7 @@
 input/
 
 # nohup output
-nogup.out
+nohup.out
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
