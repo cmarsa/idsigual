@@ -1,5 +1,8 @@
 # ignore datasets
-data/
+input/
+
+# nohup output
+nogup.out
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
