@@ -3,6 +3,7 @@ input/
 
 # nohup output
 nohup.out
+run_jp.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
