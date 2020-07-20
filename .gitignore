@@ -1,5 +1,6 @@
 # ignore datasets
 input/
+files/
 
 # nohup output
 nohup.out
